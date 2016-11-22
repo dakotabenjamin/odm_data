@@ -34,3 +34,6 @@
 [submodule "odm_data_rv_nir"]
 	path = odm_data_rv_nir
 	url = https://github.com/OpenDroneMap/odm_data_rv_nir
+[submodule "drone-datasets"]
+	path = drone-datasets
+	url = https://github.com/pierotofy/drone-datasets
