@@ -32,4 +32,4 @@ odm_data_lewis | 145 | 610 | :heavy_check_mark: | :heavy_multiplication_x:
 odm_data_rvnir | 566 | 2810 | :heavy_check_mark: | :heavy_check_mark:
 pacifica | 12 | 66.4 | :heavy_multiplication_x: | :heavy_multiplication_x:
 **seneca** | 167 | 358 | :heavy_check_mark: | :heavy_multiplication_x:
-
+**drone-datasets/brighton_beach_duluth_mn** | 18 | 61.8 | :heavy_check_mark: | :heavy_multiplication_x:
